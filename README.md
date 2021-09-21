@@ -5,8 +5,8 @@ Create a folder called resources under src/main and and create a file called app
 ```
 spring.data.mongodb.uri=mongodb+srv://<user>:<password>@<cluster>.jz2ih.mongodb.net/<database>?retryWrites=true&w=majority
 ```
-application.yml
 OR
+application.yml
 ```
 spring:
     data:
